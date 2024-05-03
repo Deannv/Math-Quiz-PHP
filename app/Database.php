@@ -5,7 +5,7 @@ class Database
     private $host = 'localhost';
     private $user = 'root';
     private $pass = '';
-    private $dbid = 'uts_backend';
+    private $dbid = 'database';
 
     protected $db;
     protected function __construct()
